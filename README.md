@@ -1,5 +1,5 @@
 # Diabetes Prediction with Machine Learning
-
+ 
 This project applies multiple machine learning algorithms on the **Pima Indians Diabetes dataset** to predict diabetes occurrence.  
 The focus is on comparing **model performance before and after class balancing** using RandomOverSampler (oversampling).
 
